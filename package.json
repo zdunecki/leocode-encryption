@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "base64-stream": "^1.0.0",
+    "bcrypt": "^3.0.7",
+    "dotenv": "^8.2.0",
+    "fastify": "^2.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=10.13.0"
+  }
+}
